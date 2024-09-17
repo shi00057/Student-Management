@@ -1,6 +1,6 @@
 /*
  * File name: Run.java
- * Author: Guoakai, 040946936
+ * Author: Kai
  * Course: CST_8284_322_OOP
  * Assignment: Assignment_2
  * Date: 2024-07-11
@@ -15,7 +15,7 @@ import java.util.Arrays;
 
 /**
  * Demonstrates sorting of students using both arrays and ArrayLists.
- * @author Guokai Shi
+ * @author Kai
  * @see Student Represents the student entity used in this demonstration.
  * @see StudentManager Manages the list of students and demonstrates sorting.
  * @version 1.0
