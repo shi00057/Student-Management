@@ -1,6 +1,6 @@
 /*
  * File name: Student.java
- * Author: Guoakai, 040946936
+ * Author: KAI
  * Course: CST_8284_322_OOP
  * Assignment: Assignment_2
  * Date: 2024-07-11
@@ -14,7 +14,7 @@ package Assignment_2;
 /**
  * Represents a student with a name, ID, email, and grade.
  * Implements the Comparable interface to facilitate sorting by grade.
- * @author Guokai Shi
+ * @author KAI
  * @version 1.0
  * @since 2024-07-11
  * @see Comparable Used for comparing students based on their grades.

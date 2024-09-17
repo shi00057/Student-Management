@@ -1,6 +1,6 @@
 /*
  * File name: StudentManager.java
- * Author: Kai
+ * Author: KAI
  * Course: CST_8284_322_OOP
  * Assignment: Assignment_2
  * Date: 2024-07-11
