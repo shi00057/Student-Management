@@ -1,6 +1,6 @@
 /*
  * File name: StudentManager.java
- * Author: Guoakai, 040946936
+ * Author: Kai
  * Course: CST_8284_322_OOP
  * Assignment: Assignment_2
  * Date: 2024-07-11
@@ -17,7 +17,7 @@ import java.util.List;
 
 /**
  * Manages a list of students.
- * @author Guokai Shi
+ * @author Kai
  * @version 1.0
  * @since 2024-07-11
  * @see Student Represents the student entity managed by this class.
